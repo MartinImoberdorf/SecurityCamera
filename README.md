@@ -1,6 +1,8 @@
 # SecurityCamera
 
-🟧 This program seeks to capture and save video of the detected movements,As would a security camera.
+This Python program aims to capture and save video of detected movements, similar to a security camera. It uses the OpenCV library for image processing and computer vision tasks. The program captures a real-time video stream from a camera (it can be the built-in webcam on your computer or an external camera) and analyzes the frames to detect any significant changes or motion in the scene.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 MIT License
